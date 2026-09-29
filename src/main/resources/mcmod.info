@@ -1,0 +1,16 @@
+[
+{
+  "modid": "world_spawn_structures",
+  "name": "World Spawn Structures",
+  "description": "Places a configured structure at the world spawn.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["LuckyLMJ"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
